@@ -1,1 +1,1 @@
-Welcome to Labo FNAC Open data
+Welcome to Labo FNAC Open Data
